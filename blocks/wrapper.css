@@ -1,4 +1,6 @@
 .wrapper{
-    max-width: 1440px;
+    box-sizing: border-box;
+    display: block;
+    width: 1440px;
     padding:  0 15%;
 }

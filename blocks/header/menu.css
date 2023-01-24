@@ -1,0 +1,27 @@
+.header_menu{
+    display: flex;
+    height: 100%;
+    width: 60%;
+    align-items: center;
+    justify-content: end;
+    
+}
+
+.menu-main{
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.menu-main a{
+    text-decoration: none;
+}
+
+.menu-main li {
+    padding: 0 7%;
+}
