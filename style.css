@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Josefin+Sans:wght@400;700&family=Libre+Baskerville&display=swap');
 @import url("/full-random/normalize.css");
 @import url("/full-random/blocks/wrapper.css");
 @import url("/full-random/blocks/header/header.css");
 @import url("/full-random/blocks/main/welcome/welcome.css");
 @import url("/full-random/blocks/header/menu.css");
 @import url("/full-random/blocks/header/logo.css");
+@import url("/full-random/blocks/main/wellcome/wellcome.css");
